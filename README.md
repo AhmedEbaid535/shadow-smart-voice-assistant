@@ -83,24 +83,24 @@ shadow_assistant/
 
 ##  Setup & Run
 
-### 1️- Clone the repository
+### 1- Clone the repository
 ```bash
 git clone https://github.com/your-username/shadow-assistant.git
 cd shadow-assistant
 ```
 
-### 2️- Install dependencies
+### 2- Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3️- Configuration
+### 3- Configuration
 - Copy `config.example.py` to `config.py`
 - Add your:
   - Adafruit IO credentials
   - VOSK model path
 
-### 4️- Run the assistant
+### 4- Run the assistant
 ```bash
 python src/main.py
 ```
