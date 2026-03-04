@@ -1,0 +1,8 @@
+paho-mqtt
+SpeechRecognition
+pygame
+edge-tts
+vosk
+ollama
+pyautogui
+screen-brightness-control
